@@ -7,7 +7,7 @@
 
 - 💬 Passionate About **webDevelopment, Food, Gym**
 
-- 📫 How to reach me **julius.sutandi@gmail.com*
+- 📫 How to reach me **julius.sutandi@gmail.com**
 
 ## 🚀 Languages, Technology and Tools 
 
