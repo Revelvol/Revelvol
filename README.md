@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Personal Django Project**
 
-- 👨‍💻 All of my projects are available at (i will put link here once the website is good enough)
+- 👨‍💻 Link to my website
 
 - 💬 Passionate About **webDevelopment, Food, Gym**
 
