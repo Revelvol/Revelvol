@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,  I'm Julius Sutandi </h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on ** PersonalDjango Project**
+- 🔭 I’m currently working on **Personal Django Project**
 
 - 👨‍💻 All of my projects are available at (i will put link here once the website is good enough)
 
