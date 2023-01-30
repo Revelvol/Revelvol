@@ -5,7 +5,7 @@
 
 - 👨‍💻 Link to my website
 
-- 💬 Passionate About **webDevelopment, Food, Gym**
+- 💬 Passionate About **WebDevelopment, Food, ManagementApp, Gym**
 
 - 📫 How to reach me **julius.sutandi@gmail.com**
 
