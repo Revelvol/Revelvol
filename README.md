@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋,  I'm Julius Sutandi </h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on **Personal Django Project**
+- 🔭 I’m currently Learning on ** Spring and React **
 
-- 👨‍💻 Link to my website
+- 👨‍💻 personal website otw :D
 
-- 💬 Passionate About **WebDevelopment, Food, ManagementApp, Gym**
+- 💬 Passionate About **WebDevelopment, Food, ManagementApp, Fitness**
 
 - 📫 How to reach me **julius.sutandi@gmail.com**
 
